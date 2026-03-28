@@ -7,28 +7,35 @@
 ## Installation
 
 Install dependencies:
-'''bash
+```bash
 sudo dnf install kernel-devel kernel-headers dkms
-'''
+```
 
 Install VirtualBox
-'''bash
+```bash
 sudo dnf install virtualbox
-'''
+```
 
 Loadthe VirtualBox kernel module:
-'''bash
+```bash
 sudo modprobe vboxdrv
-'''
+```
 
 Verify the module loaded successfully:
-'''bash
+```bash
 lsmod | grep vboxdrv
-'''
+```
 
 The output should be 'vboxdrv'.
 
 Add your user to the vboxusers group:
-'''bash
+```bash
 sudo usermod -aG vboxusers $USER
-'''
+```
+
+Log out and back in, and verify the group was added
+```bash
+groups
+```
+
+It should output 'vboxusers'
