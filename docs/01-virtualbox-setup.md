@@ -1,6 +1,6 @@
 # Oracle VirtualBox Setup
 
-## My Envcironment
+## My Environment
 - OS: Fedora Workstation 43
 - Hypervisor: VirtualBox
 
@@ -16,7 +16,7 @@ Install VirtualBox
 sudo dnf install virtualbox
 ```
 
-Loadthe VirtualBox kernel module:
+Load the VirtualBox kernel module:
 ```bash
 sudo modprobe vboxdrv
 ```
