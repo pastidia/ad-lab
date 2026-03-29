@@ -6,7 +6,28 @@
 - RAM 6144 MB
 - CPUs: 4
 - Disk: 60 GB
-- Network: Host-Only Adapter
+- Network Adapters:
+    - Adapter 1: NAT(internet access, DHCP from VirtualBox)
+    - Adapter 2: Internal Network (AD Traffic)
 
-## Notes 
-- Took a snapshot after fresh install in case of any issues titled "Fresh Install"
+## Network Configuration
+- INTERNAL adapter static IP: 172.16.0.1
+- Subnet: 255.255.255.0
+- Gateway: empty
+- DNS: 127.0.0.1
+- INTERNET adapter: DHCP (receives 10.0.2.x from VirtualBox NAT)
+
+## Roles Installed
+- Active Directory Domain Services (AD DS)
+- DHCP Server
+- DNS
+- Remote Access (RAS/NAT)
+- IIS
+
+## Domain
+- Forest: nfllab.local
+- Domain Controller: WIN-UUI5LECBC03 (default, forgot to change before promoting to DC)
+
+## Admin Accounts
+- Built-in Administrator (initial setup only)
+- a-pastidias (personal domain admin account)
