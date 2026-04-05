@@ -38,7 +38,7 @@ DIVISIONS = {
 }
 
 def generate_username(first, last, position):
-    return f"{first[0].lower()}{last.lower().replace(' ', '').replace('-', '').replace('jr.', 'jr')}_{position.lower()}"
+    return f"{first[0].lower()}{last.lower().replace(' ', '').replace('-', '').replace("'", '').replace('jr.', 'jr')}_{position.lower()}"
 
 def fetch_roster(team_id):
     url = f"https://site.api.espn.com/apis/site/v2/sports/football/nfl/teams/{team_id}/roster"

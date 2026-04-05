@@ -872,7 +872,7 @@ Jordan,Meredith,C,Las Vegas Raiders,LV,AFC West,AFC,jmeredith_c,Las Vegas Raider
 Joshua,Miles,OT,Las Vegas Raiders,LV,AFC West,AFC,jmiles_ot,Las Vegas Raiders,NFL
 Kolton,Miller,OT,Las Vegas Raiders,LV,AFC West,AFC,kmiller_ot,Las Vegas Raiders,NFL
 Jalen,Nailor,WR,Las Vegas Raiders,LV,AFC West,AFC,jnailor_wr,Las Vegas Raiders,NFL
-Aidan,O'Connell,QB,Las Vegas Raiders,LV,AFC West,AFC,ao'connell_qb,Las Vegas Raiders,NFL
+Aidan,O'Connell,QB,Las Vegas Raiders,LV,AFC West,AFC,aoconnell_qb,Las Vegas Raiders,NFL
 Albert,Okwuegbunam Jr.,TE,Las Vegas Raiders,LV,AFC West,AFC,aokwuegbunamjr_te,Las Vegas Raiders,NFL
 Jackson,Powers-Johnson,G,Las Vegas Raiders,LV,AFC West,AFC,jpowersjohnson_g,Las Vegas Raiders,NFL
 Will,Putnam,C,Las Vegas Raiders,LV,AFC West,AFC,wputnam_c,Las Vegas Raiders,NFL
@@ -902,7 +902,7 @@ Taron,Johnson,CB,Las Vegas Raiders,LV,AFC West,AFC,tjohnson_cb,Las Vegas Raiders
 Malcolm,Koonce,DE,Las Vegas Raiders,LV,AFC West,AFC,mkoonce_de,Las Vegas Raiders,NFL
 Jonah,Laulu,DT,Las Vegas Raiders,LV,AFC West,AFC,jlaulu_dt,Las Vegas Raiders,NFL
 Cody,Lindenberg,LB,Las Vegas Raiders,LV,AFC West,AFC,clindenberg_lb,Las Vegas Raiders,NFL
-Treven,Ma'ae,DT,Las Vegas Raiders,LV,AFC West,AFC,tma'ae_dt,Las Vegas Raiders,NFL
+Treven,Ma'ae,DT,Las Vegas Raiders,LV,AFC West,AFC,tmaae_dt,Las Vegas Raiders,NFL
 Brodric,Martin-Rhodes,DT,Las Vegas Raiders,LV,AFC West,AFC,bmartinrhodes_dt,Las Vegas Raiders,NFL
 Tristin,McCollum,S,Las Vegas Raiders,LV,AFC West,AFC,tmccollum_s,Las Vegas Raiders,NFL
 Segun,Olubi,LB,Las Vegas Raiders,LV,AFC West,AFC,solubi_lb,Las Vegas Raiders,NFL
@@ -1079,7 +1079,7 @@ Jordan,Mason,RB,Minnesota Vikings,MIN,NFC North,NFC,jmason_rb,Minnesota Vikings,
 J.J.,McCarthy,QB,Minnesota Vikings,MIN,NFC North,NFC,jmccarthy_qb,Minnesota Vikings,NFL
 Kyler,Murray,QB,Minnesota Vikings,MIN,NFC North,NFC,kmurray_qb,Minnesota Vikings,NFL
 Bryson,Nesbit,TE,Minnesota Vikings,MIN,NFC North,NFC,bnesbit_te,Minnesota Vikings,NFL
-Brian,O'Neill,OT,Minnesota Vikings,MIN,NFC North,NFC,bo'neill_ot,Minnesota Vikings,NFL
+Brian,O'Neill,OT,Minnesota Vikings,MIN,NFC North,NFC,boneill_ot,Minnesota Vikings,NFL
 Josh,Oliver,TE,Minnesota Vikings,MIN,NFC North,NFC,joliver_te,Minnesota Vikings,NFL
 Myles,Price,WR,Minnesota Vikings,MIN,NFC North,NFC,mprice_wr,Minnesota Vikings,NFL
 Walter,Rouse,OT,Minnesota Vikings,MIN,NFC North,NFC,wrouse_ot,Minnesota Vikings,NFL
@@ -1838,8 +1838,8 @@ Rylie,Mills,DT,Seattle Seahawks,SEA,NFC West,NFC,rmills_dt,Seattle Seahawks,NFL
 Mike,Morris,DE,Seattle Seahawks,SEA,NFC West,NFC,mmorris_de,Seattle Seahawks,NFL
 Byron,Murphy II,DT,Seattle Seahawks,SEA,NFC West,NFC,bmurphyii_dt,Seattle Seahawks,NFL
 Uchenna,Nwosu,LB,Seattle Seahawks,SEA,NFC West,NFC,unwosu_lb,Seattle Seahawks,NFL
-Patrick,O'Connell,LB,Seattle Seahawks,SEA,NFC West,NFC,po'connell_lb,Seattle Seahawks,NFL
-Connor,O'Toole,LB,Seattle Seahawks,SEA,NFC West,NFC,co'toole_lb,Seattle Seahawks,NFL
+Patrick,O'Connell,LB,Seattle Seahawks,SEA,NFC West,NFC,poconnell_lb,Seattle Seahawks,NFL
+Connor,O'Toole,LB,Seattle Seahawks,SEA,NFC West,NFC,cotoole_lb,Seattle Seahawks,NFL
 Ty,Okada,S,Seattle Seahawks,SEA,NFC West,NFC,tokada_s,Seattle Seahawks,NFL
 Chris,Paul Jr.,LB,Seattle Seahawks,SEA,NFC West,NFC,cpauljr_lb,Seattle Seahawks,NFL
 Brandon,Pili,DT,Seattle Seahawks,SEA,NFC West,NFC,bpili_dt,Seattle Seahawks,NFL
@@ -2255,7 +2255,7 @@ M.J.,Stewart,S,Houston Texans,HOU,AFC South,AFC,mstewart_s,Houston Texans,NFL
 Derek,Stingley Jr.,CB,Houston Texans,HOU,AFC South,AFC,dstingleyjr_cb,Houston Texans,NFL
 Junior,Tafuna,DT,Houston Texans,HOU,AFC South,AFC,jtafuna_dt,Houston Texans,NFL
 Xavier,Thomas,LB,Houston Texans,HOU,AFC South,AFC,xthomas_lb,Houston Texans,NFL
-Henry,To'oTo'o,LB,Houston Texans,HOU,AFC South,AFC,hto'oto'o_lb,Houston Texans,NFL
+Henry,To'oTo'o,LB,Houston Texans,HOU,AFC South,AFC,htootoo_lb,Houston Texans,NFL
 Tommy,Togiai,DT,Houston Texans,HOU,AFC South,AFC,ttogiai_dt,Houston Texans,NFL
 Austin,Brinkman,LS,Houston Texans,HOU,AFC South,AFC,abrinkman_ls,Houston Texans,NFL
 Ka'imi,Fairbairn,PK,Houston Texans,HOU,AFC South,AFC,kfairbairn_pk,Houston Texans,NFL
